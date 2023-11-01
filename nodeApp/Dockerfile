@@ -3,6 +3,7 @@ FROM node:18-slim
 
 WORKDIR /node
 
+#copy the package.json to the workdir
 COPY package*.json ./
 
 RUN npm install 
