@@ -1,4 +1,6 @@
+#the base image of node
 FROM node:18-slim
+
 
 WORKDIR /node
 
