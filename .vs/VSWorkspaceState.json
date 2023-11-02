@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\nodeApp"
   ],
-  "SelectedNode": "\\C:\\Users\\This User\\Source\\Repos\\freestyleCI",
+  "SelectedNode": "\\nodeApp\\Dockerfile",
   "PreviewInSolutionExplorer": false
 }
