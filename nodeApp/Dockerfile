@@ -15,5 +15,6 @@ COPY . .
 #exporse the webapp to port 4000
 EXPOSE 4000
 
+#run node index.js
 CMD ["node", "index.js"]
 
