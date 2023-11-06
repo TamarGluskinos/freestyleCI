@@ -10,6 +10,7 @@ RUN npm install
 
 RUN npm i -D handlebars@4.5.0
 
+
 COPY . .
 
 #exporse the webapp to port 4000
